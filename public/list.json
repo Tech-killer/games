@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Werewolf's Howl",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDK6Yx-pCpCo9U1Uwk_Egvu-A9KY0Rh45etw&s",
+    "price": 0,
+    "category": "Adventure",
+    "title": "Join the hunt in this thrilling horror adventure!"
+  },
+  {
+    "name": "Mystic Forest",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDK6Yx-pCpCo9U1Uwk_Egvu-A9KY0Rh45etw&s",
+    "price": 0,
+    "category": "Puzzle",
+    "title": "Solve intricate puzzles in a magical realm."
+  },
+  {
+    "name": "Zombie Survival",
+    "image": "https://miro.medium.com/v2/resize:fit:1400/1*RY12dASOFvTgKGA9rQ4LMA.jpeg",
+    "price": 0,
+    "category": "Survival",
+    "title": "Survive the apocalypse in this action-packed game."
+  },
+  {
+    "name": "Speedster Runner",
+    "image": "https://external-preview.redd.it/my-speedster-game-v0-751hQPZhv81J6OTRabLKVCdj-GgHefZiWKVyyjrMppE.jpg?auto=webp&s=4fb3eb8de414997b1d59fb7729e944b0adf1730c",
+    "price": 606,
+    "category": "Racing",
+    "title": "Race against time and beat your best scores!"
+  },
+  {
+    "name": "HoloJump Sneakers",
+    "image": "https://i.ytimg.com/vi/a0eBCm8KyhE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE0gZShZMA8=&rs=AOn4CLAn-Rs01ElL76GMgbd5QKYFtZOj5A",
+    "price": 1507,
+    "category": "Sports",
+    "title": "Jump into the future with our HoloJump series!"
+  },
+  {
+    "name": "Retro Arcade Kicks",
+    "image": "https://i.ytimg.com/vi/wmhRpBI-lQo/maxresdefault.jpg",
+    "price": 495,
+    "category": "Casual",
+    "title": "Bring back the nostalgia with our Retro Arcade collection."
+  },
+  {
+    "name": "Hero's Ascent Sneakers",
+    "image": "https://play-lh.googleusercontent.com/yD07m9QZl9uhQYSgYGUv5zDuA6TDwptWM0GrLo8cFQ76dlohDd73ZXqjfcWf7QRz1A=w526-h296-rw",
+    "price": 999,
+    "category": "Performance",
+    "title": "Elevate your game with our Hero's Ascent range!"
+  },
+  {
+    "name": "Shadow Sprint Shoes",
+    "image": "https://play-lh.googleusercontent.com/yD07m9QZl9uhQYSgYGUv5zDuA6TDwptWM0GrLo8cFQ76dlohDd73ZXqjfcWf7QRz1A=w526-h296-rw",
+    "price": 489,
+    "category": "Casual",
+    "title": "Sprint in style with our sleek Shadow Sprint shoes."
+  },
+  {
+    "name": "SUBWAY SURFERS",
+    "image": "https://i.scdn.co/image/ab67616d0000b273222806e5d36a1eae01e9cd9a",
+    "price": 0,
+    "category": "Casual",
+    "title": "Improve your gaming experience with our Holographic Headphones."
+  }
+]
